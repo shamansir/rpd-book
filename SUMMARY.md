@@ -1,6 +1,50 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Test Chapter](test-chapter.md)
+  * What is RPD?
+  * Features
+  * Code Examples
+  * Terminology
+* [Getting Your Version of RPD](chapter1.md)
+  * [From NPM](chapter1/npm.md)
+  * Download Default Configuration
+  * Manual Compilation
+* [Building a Patch Network](test-chapter.md)
+  * Setup Rendering
+  * Creating a Patch
+  * Adding Nodes
+  * Connecting Nodes
+  * Sending Data
+  * Adding Subpatches
+  * Adding Import/Export
+* [API](api.md)
+  * Rpd
+  * Patch
+  * Node
+  * Outlet
+  * Inlet
+  * Link
+  * Modules
+* [Creating Your Own Toolkits](creating-your-own-toolkits.md)
+  * Organizational Moments
+  * Defining Channel Type
+  * Defining Node Type
+  * Writing Channel Renderer
+  * Writing Node Renderer
+  * Writing Custom I/O Module
+  * Adding Modules
+* [Custom Styling RPD](custom-styling-rpd.md)
+  * Using CSS
+  * Writing Your Own Renderer
+  * Writing Your Own Style
+* [Subscribing to Events](subscribing-to-events.md)
+  * Global Events
+  * [Entity Events](subscribing-to-events/entity-events.md)
+    * Network Events
+    * Patch Events
+    * Node Events
+    * Outlet Events
+    * Inlet Events
+    * Link Events
+* Participating in Development
 
