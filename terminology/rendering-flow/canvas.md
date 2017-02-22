@@ -1,0 +1,3 @@
+## Canvas
+
+_Canvas_ is a place where Patch is rendered and operated. It has size and could have background color, for example. When several Patches share same target DOM element, they still have different canvases. Canvas could be an HTML5 Canvas by accident, but for sure not obligatory — this term came from [Pure Data][puredata], the thing existed long before HTML5 and appeared just few years after first ever HTML specification.
