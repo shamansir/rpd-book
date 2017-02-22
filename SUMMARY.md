@@ -8,6 +8,13 @@
     * [Network](terminology/network.md)
     * [Patch](terminology/patch.md)
     * [Node](terminology/node.md)
+    * [Outlet](terminology/outlet.md)
+    * [Inlet](terminology/inlet.md)
+    * [Link](terminology/link.md)
+    * [Toolkit](terminology/toolkit.md)
+    * [Rendering Flow](terminology/rendering-flow.md)
+      * [Renderer](terminology/rendering-flow/renderer.md)
+      * [Node Type/Instance Renderer](terminology/rendering-flow/node-typeinstance-renderer.md)
 * [Getting Your Version of RPD](chapter1.md)
   * [From NPM](chapter1/npm.md)
   * Download Default Configuration
