@@ -15,6 +15,7 @@
     * [Rendering Flow](terminology/rendering-flow.md)
       * [Renderer](terminology/rendering-flow/renderer.md)
       * [Node Type/Instance Renderer](terminology/rendering-flow/node-typeinstance-renderer.md)
+      * [Channel Type/Instance Renderer](terminology/rendering-flow/channel-typeinstance-renderer.md)
 * [Getting Your Version of RPD](chapter1.md)
   * [From NPM](chapter1/npm.md)
   * Download Default Configuration
