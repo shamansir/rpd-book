@@ -1,3 +1,5 @@
+# What is RPD?
+
 RPD is the abbreviation for _Reactive Patch Development_...
 
 ...or, actually, whatever you decide. It is the library which brings node-based user interfaces to the modern web, in full their power (when you know how to use it) and in a very elegant and minimalistic way. _Node-based_ is something like the thing you'll (probably) see above if you move your mouse cursor, or any other pointing device, above the RPD logo — (almost) nothing to do with [node.js][node-js]. Some people also say that with such user interfaces they do _Flow Programming_. If you are wondering yet, what that means, _Node-based_ interface is the one where man may visually connect different low-level components using their inputs and outputs and observe the result in real time, take <!-- consider? --> [PureData][puredata], [QuartzComposer](quartzcomposer), [VVVV][vvvv], [NodeBox][nodebox], [Reaktor][reaktor] etc. for example.
@@ -17,3 +19,19 @@ is kept as minimal as possible, so your customer may load the interface you crea
 The default configuration with SVG renderer and Quartz style included takes _11KB_ when compiled, minimized and gzipped! (30KB not gzipped). Though you also need [latest Kefir.js][kefir], the only required dependency to make it work, which adds just ~10KB more, since [Kefir.js author][roman-pominov] also likes minimalism in his code.
 
 If you feel that's you know everything in this field and this library is definitely what you need (and no doubts, it is!), you may either download the [version with default configuration](./sections/setup.html#download) or go straight to [Building Section](./sections/setup.html#compilation) to discover how easy it is to grab a code and configure yourself a custom one. If you still feel unsafe, stay with me for a bit.
+
+[node-js]: http://nodejs.org
+[kefir]: http://rpominov.github.io/kefir/
+[roman-pominov]: http://rpominov.github.io
+[processing-js]: http://p5js.org
+
+[download-default]: TODO
+[building-section]: ./sections/building.html
+[renderer-comp-section]: ./sections/compilation.html#renderers
+[style-comp-section]: ./sections/compilation.html#styles
+
+[puredata]: https://puredata.info/
+[quartzcomposer]: https://en.wikipedia.org/wiki/Quartz_Composer
+[vvvv]: https://vvvv.org/
+[nodebox]: https://www.nodebox.net/
+[reaktor]: http://www.native-instruments.com/en/products/komplete/synths/reaktor-6/

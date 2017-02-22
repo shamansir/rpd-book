@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
   * [What is RPD?](what-is-rpd.md)
-  * Features
-  * Code Examples
+  * [Features](features.md)
+  * [Code Examples](code-examples.md)
   * Terminology
 * [Getting Your Version of RPD](chapter1.md)
   * [From NPM](chapter1/npm.md)
