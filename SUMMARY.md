@@ -4,7 +4,10 @@
   * [What is RPD?](what-is-rpd.md)
   * [Features](features.md)
   * [Code Examples](code-examples.md)
-  * Terminology
+  * [Terminology](terminology.md)
+    * [Network](terminology/network.md)
+    * [Patch](terminology/patch.md)
+    * [Node](terminology/node.md)
 * [Getting Your Version of RPD](chapter1.md)
   * [From NPM](chapter1/npm.md)
   * Download Default Configuration
