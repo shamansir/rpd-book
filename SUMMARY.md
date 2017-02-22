@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * What is RPD?
+  * [What is RPD?](what-is-rpd.md)
   * Features
   * Code Examples
   * Terminology
